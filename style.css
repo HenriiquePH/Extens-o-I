@@ -132,6 +132,13 @@ body {
   margin: 0;
 }
 
+.tipo-acao {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #1565c0;
+}
+
 .aviso {
   margin-top: 10px;
   font-size: 15px;
